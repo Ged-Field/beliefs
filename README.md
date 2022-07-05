@@ -1,1 +1,1 @@
-# note
+# My Life Beliefs
