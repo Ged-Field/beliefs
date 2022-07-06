@@ -2,8 +2,6 @@
 
 # How to get growth
 
-<br><hr>
-
 1. 学习与思考
 
 2. 时间管理
