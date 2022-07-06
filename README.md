@@ -1,7 +1,7 @@
 # My Life Beliefs
 
-- [Wealth](#wealth)
+- [Wealth](https://github.com/Ged-Field/beliefs/tree/main/wealth)
 
-- [Happiness](#happiness)
+- [Happiness](https://github.com/Ged-Field/beliefs/tree/main/happiness)
 
-- [Learning & Growth](#learning)
+- [Learning & Growth](https://github.com/Ged-Field/beliefs/tree/main/learning)
